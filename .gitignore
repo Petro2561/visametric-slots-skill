@@ -1,0 +1,10 @@
+artifacts/
+__pycache__/
+*.pyc
+.venv/
+venv/
+config.yaml
+*.log
+.DS_Store
+skills/**/.venv/
+skills/**/artifacts/
