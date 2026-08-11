@@ -1,4 +1,4 @@
-# Visametric slots — проверка свободных дат
+# Visametric slots — проверка свободных дат на запись на подачу Шенген в Германию
 
 Скилл для AI-агентов (Codex, Claude, Cursor), который **смотрит, есть ли свободные даты** записи на визу на сайте [Visametric RU](https://ru-appointment.visametric.com/ru).
 
